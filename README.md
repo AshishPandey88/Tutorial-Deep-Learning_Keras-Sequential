@@ -1,5 +1,6 @@
 # Tutorial-Deep-Learning_Keras-Sequential
 Build your 1st Deep Learning model using Keras Sequential
+
 ![image](https://user-images.githubusercontent.com/98158660/152014850-468d6c5e-8b47-4d33-90ce-0c83dea324f6.png)
 
 This is an application of Keras Sequential Neural Network model model on the Churn Modelling data set. 
